@@ -7,5 +7,6 @@ Simply copy this code in remix,compile and deploy.
 You can check transactions in Deploy&Run transactions section.
 # Author
 PerpetualHorizon
-
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
